@@ -38,34 +38,6 @@ src/
 
 ---
 
-## 📦 Installation & Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/JSDHARANI1/Country_Explorer.git
-```
-
-2. Navigate to project folder:
-
-```bash
-cd Country_Explorer
-```
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Run the development server:
-
-```bash
-npm run dev
-```
-
----
-
 ## 🌐 Live Demo
 
 👉 https://jsdharani1.github.io/Country_Explorer/
